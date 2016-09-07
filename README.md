@@ -1,2 +1,5 @@
 # hello-world
-Sample repository (tutorial)
+
+Hello!
+I am a junior now! 
+Turtles are fantastic!
